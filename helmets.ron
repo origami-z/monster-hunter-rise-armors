@@ -1442,4 +1442,17 @@ ice: -1,
 dragon: 3,
 gender: Male,
 ),
+(
+    name: "Gargwa Mask S",
+    skills: [(LeapofFaith, 1), (GoodLuck, 1)],
+    slots: [],
+    rare: 6,
+    defense: 54,
+    fire: -3,
+    water: -2,
+    thunder: -2,
+    ice: 1,
+    dragon: 0,
+    gender: Neutral
+)
 ]
