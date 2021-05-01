@@ -573,7 +573,7 @@ gender: Neutral,
 ),
 (
 name: "Kamura Head Scarf S",
-skills: [(DevineBlessing, 1), (Resuscitate, 1)],
+skills: [(DivineBlessing, 1), (Resuscitate, 1)],
 slots: [1],
 rare: 4,
 defense: 30,
