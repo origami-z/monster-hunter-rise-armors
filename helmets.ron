@@ -339,7 +339,7 @@ gender: Neutral,
 ),
 (
 name: "S. Studded Hat S",
-skills: [(AimBooster, 2)],
+skills: [(Ballistics, 2)],
 slots: [2, 1],
 rare: 5,
 defense: 52,

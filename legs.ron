@@ -508,7 +508,7 @@ gender: Neutral,
 ),
 (
 name: "Pukei-Pukei Greaves S",
-skills: [(Constitution, 1), (AimBooster, 1)],
+skills: [(Constitution, 1), (Ballistics, 1)],
 slots: [2, 1],
 rare: 5,
 defense: 50,

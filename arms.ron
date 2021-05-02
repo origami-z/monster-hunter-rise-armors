@@ -495,7 +495,7 @@ gender: Neutral,
 ),
 (
 name: "Pukei-Pukei Braces S",
-skills: [(SpareShot, 1), (AimBooster, 1)],
+skills: [(SpareShot, 1), (Ballistics, 1)],
 slots: [2],
 rare: 5,
 defense: 50,
