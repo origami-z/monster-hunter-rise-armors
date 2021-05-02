@@ -1532,5 +1532,18 @@ gender: Male,
     ice: -2,
     dragon: -2,
     gender: Neutral
-)
+),
+(
+    name: "Feather of Mastery",
+    skills: [(CarvingMaster, 1)],
+    slots: [],
+    rare: 6,
+    defense: 56,
+    fire: 0,
+    water: 0,
+    thunder: 0,
+    ice: 0,
+    dragon: 0,
+    gender: Neutral
+),
 ]
