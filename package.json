@@ -1,0 +1,22 @@
+{
+  "name": "mhr-armors",
+  "version": "0.0.1",
+  "description": "Monster Hunter Rise Armor Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/origami-z/monster-hunter-rise-armors.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/origami-z/monster-hunter-rise-armors/issues"
+  },
+  "homepage": "https://github.com/origami-z/monster-hunter-rise-armors#readme",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
+}

@@ -1,0 +1,41 @@
+[
+(
+name: "Chainmail Gloves S",
+skills: [(Botanist, 1), (DefenseBoost, 2)],
+slots: [1, 1],
+rare: 4,
+defense: 32,
+fire: 0,
+water: 0,
+thunder: 1,
+ice: 0,
+dragon: 0,
+gender: Neutral,
+),
+(
+    name: "Damascus Coil",
+    skills: [(Earplugs, 1), (Handicraft, 1)],
+    slots: [1],
+    rare: 7,
+    defense: 68,
+    fire: -1,
+    water: 2,
+    thunder: -3,
+    ice: 1,
+    dragon: -1,
+    gender: Neutral
+),
+(
+name: "Hunter's Vambraces S",
+skills: [(QuickSheath, 1)],
+slots: [2],
+rare: 4,
+defense: 32,
+fire: 0,
+water: 0,
+thunder: 0,
+ice: 0,
+dragon: 0,
+gender: Neutral,
+)
+]
